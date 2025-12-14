@@ -63,3 +63,7 @@ The corresponding exploratory notebooks are located in notebooks/:
 * error_analysis.ipynb
 
 These were used during development; the .py scripts reproduce final results.
+https://www.youtube.com/watch?v=XIDsm0quMi0
+
+<img width="615" height="413" alt="image" src="https://github.com/user-attachments/assets/66692ad3-ba33-47f1-8a08-74c3c0a50bb1" />
+
